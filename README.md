@@ -9,5 +9,5 @@ Mina作为客户端连接任意tcp目标，实现消息的同步发送和接收�
         logger.info("Mina发送后接收到的信息:{}", msg);  
         
 使用步骤:
-1.开启tcp server
+1.开启tcp server  
 ![图1](https://github.com/kickTec/MinaClientSample/blob/master/readmePicture/1.%E5%BC%80%E5%90%AFtcp%E7%AB%AF%E5%8F%A3.png)
